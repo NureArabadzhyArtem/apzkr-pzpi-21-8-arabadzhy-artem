@@ -1,2 +1,3 @@
-# apzkr-pzpi-21-8-arabadzhy-artem
-apz-pzpi-21-8-arabadzhy-artem
+ПЗПІ-21-8 
+Арабаджи Артем 
+Програмна система роботи мережі салонів краси
